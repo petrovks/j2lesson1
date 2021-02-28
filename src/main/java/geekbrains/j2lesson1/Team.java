@@ -16,7 +16,6 @@ public class Team implements Member {
             this.plDistance[i] = pl[i].getMaxDistance();
             this.plJump[i] = pl[i].getMaxJump();
             this.onDistance[i] = true;
-
         }
     }
 

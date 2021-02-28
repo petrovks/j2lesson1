@@ -5,7 +5,6 @@ public class Main {
 
         Team t = new Team("Комета", Players.values());
 
-
         Wall wall = new Wall(Hurdle.WALL.getDistance());
         Track track = new Track(Hurdle.TRACK.getDistance());
 

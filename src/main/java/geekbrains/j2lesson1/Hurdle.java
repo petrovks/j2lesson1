@@ -19,7 +19,4 @@ public enum Hurdle {
         this.name = name;
         this.distance = distance;
     }
-
-
-
 }

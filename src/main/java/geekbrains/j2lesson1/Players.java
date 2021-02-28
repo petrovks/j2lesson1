@@ -10,7 +10,6 @@ public enum Players {
     private float maxJump;
     private float maxDistance;
 
-
     public String getSurname() {
         return surname;
     }
